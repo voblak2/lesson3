@@ -6,7 +6,7 @@ namespace lesson3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string[] theBeatles = {"John", "George", "Paul", "Ringo"};
         }
     }
 }
