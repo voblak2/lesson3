@@ -1,0 +1,12 @@
+/Users/vinceoblak/Desktop/ProgrammingC#/lesson3/bin/Debug/netcoreapp3.1/lesson3.deps.json
+/Users/vinceoblak/Desktop/ProgrammingC#/lesson3/bin/Debug/netcoreapp3.1/lesson3.runtimeconfig.json
+/Users/vinceoblak/Desktop/ProgrammingC#/lesson3/bin/Debug/netcoreapp3.1/lesson3.runtimeconfig.dev.json
+/Users/vinceoblak/Desktop/ProgrammingC#/lesson3/bin/Debug/netcoreapp3.1/lesson3.dll
+/Users/vinceoblak/Desktop/ProgrammingC#/lesson3/bin/Debug/netcoreapp3.1/lesson3.pdb
+/Users/vinceoblak/Desktop/ProgrammingC#/lesson3/obj/Debug/netcoreapp3.1/lesson3.csprojAssemblyReference.cache
+/Users/vinceoblak/Desktop/ProgrammingC#/lesson3/obj/Debug/netcoreapp3.1/lesson3.AssemblyInfoInputs.cache
+/Users/vinceoblak/Desktop/ProgrammingC#/lesson3/obj/Debug/netcoreapp3.1/lesson3.AssemblyInfo.cs
+/Users/vinceoblak/Desktop/ProgrammingC#/lesson3/obj/Debug/netcoreapp3.1/lesson3.csproj.CoreCompileInputs.cache
+/Users/vinceoblak/Desktop/ProgrammingC#/lesson3/obj/Debug/netcoreapp3.1/lesson3.dll
+/Users/vinceoblak/Desktop/ProgrammingC#/lesson3/obj/Debug/netcoreapp3.1/lesson3.pdb
+/Users/vinceoblak/Desktop/ProgrammingC#/lesson3/obj/Debug/netcoreapp3.1/lesson3.genruntimeconfig.cache
