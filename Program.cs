@@ -6,8 +6,13 @@ namespace lesson3
     {
         static void Main(string[] args)
         {
-            string[] theBeatles = {"John", "George", "Paul", "Ringo"};
-            Console.WriteLine(theBeatles[3]);
+            string[] groceryList = new string[4];
+            groceryList[0] = "bread";
+            groceryList[1] = "eggs";
+            groceryList[2] = "milk";
+            groceryList[3] = "tea";
+
+            Console.WriteLine(groceryList[1]);
         }   
     }
 }
