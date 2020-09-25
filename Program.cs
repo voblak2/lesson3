@@ -11,7 +11,8 @@ namespace lesson3
             groceryList[1] = "eggs";
             groceryList[2] = "milk";
             groceryList[3] = "tea";
-
+            Console.WriteLine(groceryList[1]);
+            groceryList[1] = "beans";
             Console.WriteLine(groceryList[1]);
         }   
     }
