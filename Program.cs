@@ -6,9 +6,13 @@ namespace lesson3
     {
         static void Main(string[] args)
         {
-            int[] highestArizonaTemperatures = {120, 122, 121, 118, 119};
-            Console.WriteLine(highestArizonaTemperatures[0]);
-            Console.WriteLine(highestArizonaTemperatures[4]);
+            int myNumber = 1;
+
+            while (myNumber < 10)
+            {
+                Console.WriteLine(myNumber);
+                myNumber++;
+            }
         }   
     }
 }
