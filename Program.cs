@@ -8,11 +8,11 @@ namespace lesson3
         {
             int myNumber = 1;
 
-            while (myNumber < 10)
+            do
             {
                 Console.WriteLine(myNumber);
                 myNumber++;
-            }
+            } while (myNumber < 10);
         }   
     }
 }
