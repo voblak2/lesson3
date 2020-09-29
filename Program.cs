@@ -6,13 +6,11 @@ namespace lesson3
     {
         static void Main(string[] args)
         {
-            int myNumber = 1;
-
-            do
+            for (int count = 10; count > 0; count--)
             {
-                Console.WriteLine(myNumber);
-                myNumber++;
-            } while (myNumber < 10);
+                Console.WriteLine(count);
+            }
+            Console.WriteLine("Lift off!");
         }   
     }
 }
