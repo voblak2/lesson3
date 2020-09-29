@@ -6,11 +6,12 @@ namespace lesson3
     {
         static void Main(string[] args)
         {
-            for (int count = 10; count > 0; count--)
+            string[] myArray = {"Albert", "Kirsten", "Hester", "Henry"};
+
+            for (int i = 0; i < myArray.Length; i++)
             {
-                Console.WriteLine(count);
+                Console.WriteLine(myArray[i] + ", hello!");
             }
-            Console.WriteLine("Lift off!");
         }   
     }
 }
